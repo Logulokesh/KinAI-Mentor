@@ -120,6 +120,12 @@ graph TB
 | **🎯 Analytics** | Learning progress tracking | Local data storage |
 
 ---
+## 🤖 AI-Powered Tutoring for Every Child
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Logulokesh/KinAI-Mentor/refs/heads/main/screenshots/KinAiM.gif" alt="KinAi-Vision" width="80%" />
+</p>
 
 ## 🎯 Why Choose KinAI-Mentor?
 
